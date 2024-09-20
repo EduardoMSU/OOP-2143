@@ -6,8 +6,6 @@ class Fraction {
 private:
     int numerator;
     int denominator;
-    float lcd;
-    float lcm;
 
 public:
     // Constructor
@@ -30,8 +28,8 @@ public:
     bool operator==(const Fraction& other) const;
     
     
-    static int lcd(int a, int b);
-    static int lcm(int a, int b);
+    int lcd(int a, int b);
+    int lcm(int a, int b);
 
     friend std::ostream& operator<<(std::ostream& os, const Fraction& frac);
 };

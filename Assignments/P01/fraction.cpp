@@ -67,12 +67,12 @@
     }
 
 // Function to calculate Least Common Denominator (LCD)
-static int lcd(int a, int b) {                                                   //Implement logic for LCD
+int Fraction::lcd(int a, int b) {                                                   //Implement logic for LCD
     return lcm(a, b);
 }
 
 // Function to calculate Least Common Multiple (LCM)
-static int lcm(int a, int b) {                                                   //Implement logic for LCM
+int Fraction::lcm(int a, int b) {                                                   //Implement logic for LCM
     return (abs(a * b) / std::gcd(a, b));
     return 0;
 }

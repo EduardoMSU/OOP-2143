@@ -6,12 +6,14 @@ class Fraction {
 private:
     int numerator;
     int denominator;
+    char other;
 
 public:
     // Constructor
     Fraction();
     Fraction(int num);
     Fraction(int num, int den);
+    
 
     // Fraction(int num, int den) : numerator(num), denominator(den) {                 //To make sure that the denominator will not be zero.
     //      if (den == 0) {

@@ -28,7 +28,7 @@
     }
       // Overloaded addition operator
    Fraction Fraction::operator+(const Fraction& other) {                                   //Use LCM and LCD to add fractions correctly
-      char other;
+    //   char other;
        int lcd_value = lcd(denominator, other.denominator);
         int new_numerator = (numerator * (lcd_value / denominator)) + (other.numerator * (lcd_value / other.denominator));
         return Fraction(new_numerator, lcd_value);

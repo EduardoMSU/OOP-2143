@@ -2,5 +2,5 @@
 
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
-|  A08  | [Link 8](https://github.com/EduardoMSU/OOP-2143/blob/main/Assignments/08-P02B/knucklebones)  | description 0          |
-|  
+|  A08  |  [A08 Link](https://github.com/EduardoMSU/OOP-2143/blob/main/Assignments/08-P02B/knucklebones)  |  List out details that could be used for a knucklebones game  |
+|  P01  |  [P01 Link](https://github.com/EduardoMSU/OOP-2143/tree/main/Assignments/P01)  |  A fraction class that will overload the operators  |

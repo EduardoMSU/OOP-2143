@@ -7,13 +7,13 @@
 
 #### Abstract Classes and Interfaces
 Abstract Classes: Classes that cannot be instantiated and may have abstract methods (without implementation) and concrete methods (with implementation). They are designed to be extended.
-
+'''cpp
 abstract class Animal {
     abstract void sound(); // Abstract method
     void sleep() { // Concrete method
         System.out.println("Sleeping...");
     }
-}
+}'''
 Interfaces: Define a contract that implementing classes must follow. Methods in an interface are abstract by default (Java 8+ allows default methods).
 
 interface Animal {

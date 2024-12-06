@@ -15,6 +15,8 @@ abstract class Animal {
         System.out.println("Sleeping...");
     }
 }
+![image](https://github.com/user-attachments/assets/7e5b9a32-c219-4aba-b1aa-9a7fd4cd48fd)
+
 Interfaces: Define a contract that implementing classes must follow. Methods in an interface are abstract by default (Java 8+ allows default methods).
 java
 Copy code

@@ -1,4 +1,4 @@
-## P02B Knuckle Bones Game 
+## P03 Executable SFML Code
 ### Eduardo Robles & Carlos Astudillo
 ### Description:
 

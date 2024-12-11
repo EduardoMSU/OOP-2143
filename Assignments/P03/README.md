@@ -8,7 +8,7 @@ Create a counter for when a circle that is displayed on the screen gets clicked.
 
 |  #  |  File  |  Description  |
 | :---: | ---------------- | -------------------------------------------------- |
-|  1  |  [Link 1](my.cpp)  |  Directory to image  |
+|  1  |  [Link 1](msu_texas_background.jpeg)  |  Directory to image  |
 |  2  |  [Link 2](my.cpp)  |  .cpp file  |
 
 ### instructions:

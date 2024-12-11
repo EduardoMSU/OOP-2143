@@ -6,4 +6,4 @@ This should show that ncurses was downloaded and the program given was able to r
 
 |  #  |  File  |  Description  |
 | :---: | ---------------- | -------------------------------------------------- |
-|  1  |  [Screenshot](https://1drv.ms/i/c/14bb949ad3dc33ee/EaZ65KjLL1JGmBOb4_JakIkB_gRR89JnZGUrQko7KSMgYg?e=8JnUkH)  |  This screenshot shows that ncurses is working  |
+|  1  |  [Screenshot](Screenshot 2024-10-16 231522.png)  |  This screenshot shows that ncurses is working  |

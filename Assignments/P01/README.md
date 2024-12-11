@@ -13,4 +13,4 @@ This program will overload the +,-,*,/, and == operators to do fractions.
 
 ### Instructions:
 
-- 
+- Got help from Dr. Griffin

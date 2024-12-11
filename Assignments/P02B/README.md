@@ -8,4 +8,4 @@ Design a set of classes for a digital version of the game Knucklebones. The goal
 
 |  #  |  File  |  Description  |
 | :---: | ---------------- | -------------------------------------------------- |
-|  1  |  [Link 1](https://github.com/EduardoMSU/OOP-2143/blob/main/Assignments/08-P02B/knucklebones)  |  Gives the base description of things needed to make this program  |
+|  1  |  [Link 1]([https://github.com/EduardoMSU/OOP-2143/blob/main/Assignments/08-P02B/knucklebones](https://github.com/EduardoMSU/OOP-2143/blob/9925faf42f8ff3e03b69f5a6f0ae36d9b7a7b776/Assignments/P02B/Knuckle%20Bones))  |  Gives the base description of things needed to make this program  |

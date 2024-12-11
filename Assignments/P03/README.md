@@ -23,6 +23,6 @@ Create a counter for when a circle that is displayed on the screen gets clicked.
 - Changed the text color
 - Display counter at the top left corner
 
-- Example Command
+### Example Command
   - Carloss-Air:mycode carlosastudillo$ g++ -std=c++11 code.cpp -I/opt/homebrew/Cellar/sfml/2.6.2/include -o app -L/opt/homebrew/Cellar/sfml/2.6.2/lib -lsfml-graphics -lsfml-window -lsfml-system
   - ./app  

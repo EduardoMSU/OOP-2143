@@ -4,7 +4,7 @@
 ### 2143 OOP
 ### Description: 
 #### Provides definitions and examples of all of the OOP concepts you see below.
-[Wiki](https://github.com/EduardoMSU/OOP-2143.wiki.git)
+[Wiki](https://github.com/EduardoMSU/OOP-2143/wiki)
 #### Abstract Classes and Interfaces
 Abstract Classes: Classes that cannot be instantiated and may have abstract methods (without implementation) and concrete methods (with implementation). They are designed to be extended.
 '''cpp

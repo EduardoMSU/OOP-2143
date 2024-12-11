@@ -2,6 +2,8 @@
 ### Eduardo Robles
 ### Description: 
 
+This program will overload the +,-,*,/, and == operators to do fractions.
+
 |  #  |  File  |  Description  |
 | :---: | ---------------- | -------------------------------------------------- |
 |  1  |  [Link 1](Main.cpp)  |    |

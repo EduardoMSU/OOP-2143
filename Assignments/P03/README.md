@@ -8,8 +8,8 @@ Create a counter for when a circle that is displayed on the screen gets clicked.
 
 |  #  |  File  |  Description  |
 | :---: | ---------------- | -------------------------------------------------- |
-|  1  |  [Link 1](https://github.com/EduardoMSU/OOP-2143/blob/main/Assignments/08-P02B/knucklebones)  |  Directory to image  |
-|  2  |  [Link 2](https://github.com/EduardoMSU/OOP-2143/blob/main/Assignments/08-P02B/knucklebones)  |  .cpp file  |
+|  1  |  [Link 1](my.cpp)  |  Directory to image  |
+|  2  |  [Link 2](my.cpp)  |  .cpp file  |
 
 ### instructions:
 - Met with Dr. Griffin to get help
